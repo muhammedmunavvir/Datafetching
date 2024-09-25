@@ -1,0 +1,40 @@
+{ "products":[{
+    "id": "36",
+    "heading": "HiLife It's Only Natural Grain Free Cat Treats Chicken Breast 30g",
+    "discription": "100% natural, grain-free treats made from 100% chicken breast, free from artificial colours, flavours, and preservatives.",
+    "url": "https://cdn.petsathome.com/public/images/products/900_7142566.jpg",
+    "catogory": "cat-treat",
+    "price": 6,
+    "rating": 4,
+    "qty": 1
+  },
+  {
+    "id": "38",
+    "heading": "Whiskas Kitten Cat Milk 600ml",
+    "discription": "Low-lactose milk for easy digestion, enriched with calcium for strong bones and development. Free from artificial additives, suitable for kittens over 6 weeks.",
+    "url": "https://cdn.petsathome.com/public/images/products/900_13420.jpg",
+    "catogory": "cat-treat",
+    "price": 3,
+    "rating": 4,
+    "qty": 1
+  },
+  {
+    "id": "39",
+    "heading": "Whiskas Kitten Treats Milk 55g",
+    "discription": "Crunchy, milky treats for kittens, rich in calcium for healthy teeth and bones, under 2 Kcal each, with no artificial flavours.",
+    "url": "https://cdn.petsathome.com/public/images/products/900_7116127.jpg",
+    "catogory": "cat-treat",
+    "price": 2,
+    "rating": 3.5,
+    "qty": 1
+  },
+  {
+    "id": "40",
+    "heading": "Dreamies Cat Treat Biscuits with Catnip 200g",
+    "discription": "Packed with vitamins and minerals, these two-calorie treats come in a handy resealable bag for convenience.",
+    "url": "https://cdn.petsathome.com/public/images/products/900_7145028.jpg",
+    "catogory": "cat-treat",
+    "price": 3,
+    "rating": 4,
+    "qty": 1
+  }]}
